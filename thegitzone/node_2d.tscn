@@ -35,3 +35,10 @@ offset_bottom = -145.0
 text = "ag i am speaking to you through the game 
  	hello
 I GOT REMOVED AG. WHAT THE FUCK"
+
+[node name="RichTextLabel3" type="RichTextLabel" parent="."]
+offset_left = -479.0
+offset_top = -173.0
+offset_right = -219.0
+offset_bottom = -43.0
+text = "no merge conflict this time"
