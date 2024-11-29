@@ -1,0 +1,9 @@
+[gd_scene load_steps=2 format=3 uid="uid://usnlvsuv1h"]
+
+[ext_resource type="Texture2D" uid="uid://cf5r2pgcanhxm" path="res://carstarty.png" id="1_t56bj"]
+
+[node name="level2" type="Node2D"]
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+position = Vector2(556, 338)
+texture = ExtResource("1_t56bj")
