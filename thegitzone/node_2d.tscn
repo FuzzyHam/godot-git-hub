@@ -34,3 +34,10 @@ offset_right = 358.0
 offset_bottom = -145.0
 text = "ag i am speaking to you through the game 
  	hello"
+
+[node name="RichTextLabel3" type="RichTextLabel" parent="."]
+offset_left = -392.0
+offset_top = -267.0
+offset_right = -132.0
+offset_bottom = -137.0
+text = "we are testing again, ag..."
