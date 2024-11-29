@@ -26,3 +26,11 @@ offset_top = 35.0
 offset_right = 162.0
 offset_bottom = 165.0
 text = "hello fuz, i am your creation. i admire the gift of live you have so graciously bestowed upon me"
+
+[node name="RichTextLabel2" type="RichTextLabel" parent="."]
+offset_left = 98.0
+offset_top = -275.0
+offset_right = 358.0
+offset_bottom = -145.0
+text = "ag i am speaking to you through the game 
+ 	hello"
