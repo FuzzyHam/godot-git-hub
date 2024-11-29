@@ -42,3 +42,11 @@ offset_top = -173.0
 offset_right = -219.0
 offset_bottom = -43.0
 text = "no merge conflict this time"
+
+[node name="RichTextLabel4" type="RichTextLabel" parent="."]
+offset_left = -721.392
+offset_top = -329.162
+offset_right = -461.392
+offset_bottom = -199.162
+text = "number 4
+"
